@@ -38,17 +38,20 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeanramosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeanramosa&layout=compact&langs_count=8&theme=algolia" />
+<a href="https://github.com/Jeanramosa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeanramosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeanramosa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jean-ramos-aranda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:jean.ramosar@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jean.ramosar@gmail.com" title="Enviar correo a jean.ramosar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
 </p> 
-
 <!--
 **Jeanramosa/Jeanramosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
