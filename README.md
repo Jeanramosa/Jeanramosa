@@ -47,13 +47,11 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jean-ramos-aranda/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:jean.ramosar@gmail.com" title="Enviar correo a jean.ramosar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/jean-ramos-aranda/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jean.ramosar@gmail.com" title="Enviar correo a jean.ramosar@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+</p> 
 
 <!--
 **Jeanramosa/Jeanramosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
