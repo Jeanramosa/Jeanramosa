@@ -38,12 +38,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Jeanramosa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeanramosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" style="display:inline-block;" />
-  </a>
-  <a href="https://github.com/Jeanramosa">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeanramosa&layout=compact&langs_count=8&theme=algolia" style="display:inline-block;" />
-  </a>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeanramosa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeanramosa&layout=compact&langs_count=8&theme=algolia" />
 </p>
 
 ### 🤝🏻 &nbsp;Connect with Me
