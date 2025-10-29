@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 About Me
 
-📊 &nbsp;CRM Data Analyst leveraging SQL and Power BI to build dashboards and reports that support strategic decision-making.  
+📊 &nbsp;CRM Automation & Data Analyst leveraging SQL and Power BI to build dashboards and reports that support strategic decision-making.  
 🎓 &nbsp;Currently studying a Bootcamp in Data Analytics, Data Science, and AI.  
 💡 &nbsp;Passionate about exploring new technologies and using them to develop innovative solutions.  
 ✍️ &nbsp;In my spare time, I work on personal Data Science and analytics projects to sharpen my skills and discover new tools.  
